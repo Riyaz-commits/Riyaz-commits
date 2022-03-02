@@ -15,5 +15,7 @@ Docker
 Kubernetes
 AWS
 Azure
+Devops
+Linux
 
 
