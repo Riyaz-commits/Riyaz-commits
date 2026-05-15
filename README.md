@@ -8,14 +8,5 @@
 
 Career Goals:
 
-Spring Boot
-Mango DB
-Cucumber Framewrok
-Docker
-Kubernetes
-AWS
-Azure
-Devops
-Linux
-
+To Become a Full Stack Engineer
 
